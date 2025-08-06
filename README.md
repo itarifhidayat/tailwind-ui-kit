@@ -48,6 +48,11 @@ cd tailwind-ui-kit
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version here:  
+🔗 [https://tailwind-uikit-arif.netlify.app](https://tailwind-uikit-arif.netlify.app)
+
 ## 📸 Screenshots
 
 > 📷 Replace the image below with actual screenshots from your project once hosted or finalized.
